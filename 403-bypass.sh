@@ -24,9 +24,9 @@ function print(){
 }
 function banner(){
 	echo "💀💀💀💀💀💀💀💀💀"
-	echo -e "💀$green Have a beer🍺💀 $end"
+	echo -e "💀$green zordan is live🍺💀 $end"
 	echo "💀💀💀💀💀💀💀💀💀"
-	echo -e "     ${cyan}- twitter.com/Dheerajmadhukar : @me_dheeraj${end}"
+	echo -e "     ${cyan}- instagram.com/hug.ss_for_drugs : @hug.ss_for_drugs${end}"
 }
 function usage(){
         printf "Usage:\n"
